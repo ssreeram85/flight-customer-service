@@ -9,7 +9,7 @@ import com.tetrasoft.us.entity.CustomerDetailsEntiry;
 
 @Repository
 public interface ICustomerService extends JpaRepository<CustomerDetailsEntiry, Integer> {
-	
+	//this comment
 	Optional<CustomerDetailsEntiry> findByPnrNumber(Integer pnrnumber);
 
 }
