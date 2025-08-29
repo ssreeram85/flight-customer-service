@@ -21,7 +21,7 @@ public class CustomerController {
 	
 	@Autowired
 	private ICustomerService customerService;
-	
+	//save customer details
 	@PostMapping("/customer")
 	public CustomerDetailsEntiry saveCustomerDetails(@RequestBody CustomerDto customerDto) {
 
