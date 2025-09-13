@@ -1,5 +1,5 @@
 package com.tetrasoft.us.dto;
-
+//sample
 public class CustomerDto {
 	private String firstName;
 	private String lastName;
