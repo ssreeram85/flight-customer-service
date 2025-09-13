@@ -12,7 +12,7 @@
 	<artifactId>flight-customer-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>flight-customer-service</name>
-	<description>assignment of Customer curd operations</description>
+	<description>assignment of Customer curd operations for bank</description>
 
 	<properties>
 		<java.version>1.8</java.version>
